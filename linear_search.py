@@ -41,5 +41,5 @@ def verify(index):
 
 # Example usage
 arr = [x for x in range(1, 11)]
-index = linear_search(arr, 5)
+index = linear_search(arr, 4)
 verify(index)
